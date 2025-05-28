@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import appointments from "../../../../Data/appointments";
+import appointments from "../../../../Data/Appointments";
 import Appointment from "./Appointment";
 
 const StyledDiv = styled.div`
