@@ -3,6 +3,10 @@
 A React-based static healthcare dashboard app built with Vite.  
 This project showcases reusable components, responsive design, and clean UI based on the given assignment requirements.
 
+## Live Demo
+
+https://healthcare-dashboard-three-phi.vercel.app/
+
 ## Tech Stack
 
 - React
