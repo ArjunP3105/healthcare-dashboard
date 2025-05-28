@@ -3,19 +3,11 @@
 A React-based static healthcare dashboard app built with Vite.  
 This project showcases reusable components, responsive design, and clean UI based on the given assignment requirements.
 
-## Features
-
-- Static display with mock data
-- Responsive layout for desktop and mobile
-- Reusable React components
-- Pixel-perfect styling
-- No backend integration (static)
-
 ## Tech Stack
 
 - React
 - Vite
-- CSS / Tailwind CSS (if you used it)
+- Styled Components
 - JavaScript (ES6+)
 
 ## Getting Started
@@ -30,3 +22,17 @@ This project showcases reusable components, responsive design, and clean UI base
 git clone https://github.com/ArjunP3105/healthcare-dashboard.git
 cd healthcare-dashboard
 npm install
+```
+### Run
+
+```bash
+npm run dev
+```
+
+## 👨‍💻 Developed By
+
+**Arjun P**  
+📍 Bengaluru  
+📧 [arjunprabhakaran31@gmail.com](mailto:arjunprabhakaran31@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arjun-p-810a96318)  
+🔗 [GitHub](https://github.com/ArjunP3105)
