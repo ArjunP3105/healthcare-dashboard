@@ -12,10 +12,6 @@ This project showcases reusable components, responsive design, and clean UI base
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js and npm installed
-
 ### Installation
 
 ```bash
@@ -23,6 +19,13 @@ git clone https://github.com/ArjunP3105/healthcare-dashboard.git
 cd healthcare-dashboard
 npm install
 ```
+
+### Install Styled Components
+
+```bash
+npm install styled-components
+```
+
 ### Run
 
 ```bash
